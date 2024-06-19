@@ -1,3 +1,0 @@
-1: Simple AutoRun: Компьютер\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
-2: Global AutoRun: Компьютер\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
-3: Application Detector: Компьютер\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\
